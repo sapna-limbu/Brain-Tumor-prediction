@@ -1,6 +1,7 @@
 # Brain-Tumor-prediction
 Objective :
 Develop predictive models to accurately classify brain tumor cases based on tumor-related features.
+
 Constraints:
 Ensure that the data for tumor-related features (Area, Perimeter, Convex Area, Solidity, Equivalent Diameter, Major Axis, Minor Axis) is accurate, reliable, and comprehensive to facilitate effective model training and evaluation.
 
